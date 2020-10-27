@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 11px;
+    font-size: 2em;
+}
+
+.texto {
+    color: #46484c;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 11px;
+    font-size: 2em;
+}
+
+#texto2{
+    color: ##8b8b8bcc;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 11px;
+    font-size: 2em;
+}
